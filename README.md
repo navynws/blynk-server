@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/blynkkk/blynk-server)
+
 # What is Blynk?
 Blynk is a platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and the likes over the Internet.  
 You can easily build graphic interfaces for all your projects by simply dragging and dropping widgets.
